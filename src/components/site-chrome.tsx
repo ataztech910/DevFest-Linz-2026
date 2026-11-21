@@ -2,8 +2,8 @@ import { Link } from "@tanstack/react-router";
 import { LOGO, COMMUNITY_URL } from "@/lib/site-data";
 
 const nav = [
-  { to: "/", label: "Community" },
-  { to: "/agenda", label: "Agenda" },
+  // { to: "/", label: "Community" },
+  { to: "/", label: "Agenda" },
   { to: "/house-rules", label: "House Rules" },
   { to: "/hackathon", label: "Hackathon" },
 ] as const;
