@@ -5,7 +5,7 @@ const nav = [
   // { to: "/", label: "Community" },
   { to: "/", label: "Agenda" },
   { to: "/house-rules", label: "House Rules" },
-  { to: "/hackathon", label: "Hackathon" },
+  { to: "/hackathon", label: "Vibe Lounge" },
 ] as const;
 
 export function SiteHeader() {
