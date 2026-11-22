@@ -72,7 +72,7 @@ export const timetable: TimetableRow[] = [
   { time: "15:10–15:50",
     a: { title: "The Planet Earth. The Ethical Use of AI.", who: "Marie Dedíková", track: "ai" },
     b: [
-      { time: "15:10–15:30", title: "Two Apps, One Product: Keeping Android and iOS From Drifting Apart", who: "Muhammad Raza", track: "mobile" },
+      { time: "15:10–15:30", title: "The Physics of Voice: Building a Coach in Flutter with Whisper and Acoustic Analysis", who: "Andrii Khrystian", track: "mobile" },
       { time: "15:30–15:50", title: "Android first, iOS by Claude", who: "Rene Ferrari", track: "mobile" },
     ] },
   { time: "16:00–16:40",
@@ -94,7 +94,7 @@ export const tracks = [
   { name: "Mobile", color: "bg-g-green", talks: [
     ["Full Stack with Flutter – are we there yet?", "Nemanja Stošić"],
     ["Ape, AI, and App Success: Why Simple Ideas Win in a Brave New Mobile World", "Viktor Arsovski"],
-    ["Two Apps, One Product: Keeping Android and iOS From Drifting Apart ⚡", "Muhammad Raza"],
+    ["The Physics of Voice: Building a Coach in Flutter with Whisper and Acoustic Analysis ⚡", "Andrii Khrystian"],
     ["Android first, iOS by Claude ⚡", "Rene Ferrari"],
   ]},
   { name: "Cloud & Backend", color: "bg-g-red", talks: [
