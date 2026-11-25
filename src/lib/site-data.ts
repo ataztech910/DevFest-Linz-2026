@@ -70,7 +70,7 @@ export const timetable: TimetableRow[] = [
     b: { title: "The Cost of 12 Bytes in JavaScript", who: "Sergey Zelenov", track: "web" } },
   { time: "14:40–15:10", both: "Coffee break", kind: "break" },
   { time: "15:10–15:50",
-    a: { title: "The Planet Earth. The Ethical Use of AI.", who: "Marie Dedíková", track: "ai" },
+    a: { title: "Code Generation and Review with AI in Complex Repositories", who: "Vladyslav Kravchenko", track: "ai" },
     b: [
       { time: "15:10–15:30", title: "The Physics of Voice: Building a Coach in Flutter with Whisper and Acoustic Analysis", who: "Andrii Khrystian", track: "mobile" },
       { time: "15:30–15:50", title: "Android first, iOS by Claude", who: "Rene Ferrari", track: "mobile" },
@@ -86,7 +86,7 @@ export const tracks = [
   { name: "AI & Machine Learning", color: "bg-g-blue", talks: [
     ["The Agentic Web", "Kasper Kulikowski, DevRel @ Google Chrome"],
     ["Game Over for Hallucinations: 5 Levels to Test Your Gemini App Before Your Users Do", "Manuel Alejandro Ledezma Falcon"],
-    ["The Planet Earth. The Ethical Use of AI.", "Marie Dedíková"],
+    ["Code Generation and Review with AI in Complex Repositories", "Vladyslav Kravchenko"],
     ["Building Human-Machine Teams Today", "Ilya Kaznacheev"],
     ["Three Responsible AI Checks for University Applications ⚡", "Kristine Kajaia"],
     ["No more blind spots: Evaluating AI using Observability ⚡", "Indermohan Singh"],
